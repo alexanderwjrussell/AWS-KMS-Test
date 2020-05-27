@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "owner": "alexanderwjrussell",
+  "cloudkat_version": "3.0.1",
+  "secret_env_vars": [
+    "TestSecretOne",
+    "TestSecretTwo",
+    "CompleteDifferentNamingConvention"
+  ]
+}
